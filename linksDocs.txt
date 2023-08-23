@@ -1,0 +1,18 @@
+Video extra sobre una conferencia acerca de IA en Madrid:
+https://pulse.microsoft.com/es-es/microsoft-ai-innovation-summit-5-de-julio-2023-registrate-ahora/
+
+Videos introducción al uso de Azure portal:
+https://azure.microsoft.com/en-us/get-started/on-demand/?mkt_tok=MTU3LUdRRS0zODIAAAGNCO_qqIWBCnV25d7jF3CJp_b5N_t-NNbZyzjzmtBCb50005XdS8w0KBfAlV4C_ZXMMVkScvkUiaC3Awbn71ouFLtht72haotHb8Amzz8vmhpXtYWYrYGDdxmp
+
+
+Documentación azure sobre cognitive services.
+https://learn.microsoft.com/es-es/azure/cognitive-services/
+
+Azure OpenAI y C# SDK:
+https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/#:~:text=NOTE%3A%20The%20Azure%20OpenAI%20.&text=NET%20SDK%20which%20supports%20both,OpenAI%20or%20Azure%20OpenAI%20Service.
+
+Examen Azure - AI-102 Designing and Implementing a Microsoft Azure AI Solution
+https://learn.microsoft.com/es-es/certifications/resources/study-guides/ai-102
+
+IMPORTANTE!! Ruta azure OpenAI:
+https://learn.microsoft.com/es-es/training/paths/develop-ai-solutions-azure-openai/
