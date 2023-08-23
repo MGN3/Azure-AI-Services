@@ -1,0 +1,36 @@
+ServiceName,ServiceFamily,Provider,PublisherType,ServiceTier,Product,Meter,ChargeType,Cost,CostUSD,Currency
+Cognitive Services,AI + Machine Learning,Azure,Microsoft,Computer Vision,Computer Vision - Custom Object Detection,Custom Object Detection Training,Usage,18.19587863,20,EUR
+Cognitive Services,AI + Machine Learning,Azure,Microsoft,Computer Vision,Computer Vision - Custom Object Detection,Custom Object Detection Transactions,Usage,0.112814448,0.124,EUR
+Cognitive Services,AI + Machine Learning,Azure,Microsoft,Computer Vision,Computer Vision - S1,S1 Transactions - Free,Usage,0,0,EUR
+Cognitive Services,AI + Machine Learning,Azure,Microsoft,Face,Face - Standard,Standard Transactions - Free,Usage,0,0,EUR
+Cognitive Services,AI + Machine Learning,Azure,Microsoft,Language,Language - Standard,Standard Text Records - Free,Usage,0,0,EUR
+Cognitive Services,AI + Machine Learning,Azure,Microsoft,Translator Text,Translator Text - S1,S1 Translation Transactions - Free,Usage,0,0,EUR
+Virtual Machines,Compute,Azure,Microsoft,Virtual Machines NC Series,Virtual Machines NC Series - NC6 - EU West,NC6,Usage,0.353613647,0.38867444,EUR
+Storage,Storage,Azure,Microsoft,Standard HDD Managed Disks,Standard HDD Managed Disks - S10 LRS - EU West,S10 Disks,Usage,0.007199629,0.007913472,EUR
+Storage,Storage,Azure,Microsoft,Blob Storage,Blob Storage - Hot GRS - EU West,Hot GRS Write Operations,Usage,0.002869126,0.0031536,EUR
+Storage,Storage,Azure,Microsoft,Blob Storage,Blob Storage - Hot LRS - EU West,All Other Operations,Usage,0.001378238,0.00151489,EUR
+Storage,Storage,Azure,Microsoft,Blob Storage,Blob Storage - Hot GRS - EU West,GRS List and Create Container Operations,Usage,0.00051094,0.0005616,EUR
+Storage,Storage,Azure,Microsoft,Storage - Bandwidth,Storage - Bandwidth - Geo-Replication v2 - EU West,Geo-Replication v2 Data Transfer,Usage,0.000476878,0.00052416,EUR
+Storage,Storage,Azure,Microsoft,Blob Storage,Blob Storage - Hot RA-GRS - EU West,Hot RA-GRS Data Stored,Usage,9.67384E-05,0.00010633,EUR
+Storage,Storage,Azure,Microsoft,Tables,Tables - GRS,GRS Batch Write Operations,Usage,2.56125E-05,0.000028152,EUR
+Storage,Storage,Azure,Microsoft,Tables,Tables - LRS,Batch Write Operations,Usage,9.03971E-06,0.000009936,EUR
+Storage,Storage,Azure,Microsoft,Tables,Tables - RA-GRS,RA-GRS Data Stored,Usage,3.41173E-06,0.00000375,EUR
+Storage,Storage,Azure,Microsoft,Tables,Tables - LRS,Read Operations,Usage,3.60278E-07,0.000000396,EUR
+Storage,Storage,Azure,Microsoft,Tables,Tables - GRS,GRS Write Operations,Usage,2.29268E-07,0.000000252,EUR
+Storage,Storage,Azure,Microsoft,Tables,Tables - LRS,Write Operations,Usage,1.3101E-07,0.000000144,EUR
+Storage,Storage,Azure,Microsoft,Blob Storage,Blob Storage - Hot LRS,Hot LRS Data Stored - Free,Usage,0,0,EUR
+Storage,Storage,Azure,Microsoft,Blob Storage,Blob Storage - Hot LRS,Hot LRS Write Operations - Free,Usage,0,0,EUR
+Storage,Storage,Azure,Microsoft,Blob Storage,Blob Storage - Hot LRS,Hot Read Operations - Free,Usage,0,0,EUR
+Storage,Storage,Azure,Microsoft,Blob Storage,Blob Storage - Hot LRS,LRS List and Create Container Operations - Free,Usage,0,0,EUR
+Storage,Storage,Azure,Microsoft,Files,Files - LRS,LRS Write Operations - Free,Usage,0,0,EUR
+Storage,Storage,Azure,Microsoft,Files,Files - LRS,Read Operations - Free,Usage,0,0,EUR
+Storage,Storage,Azure,Microsoft,Standard HDD Managed Disks,Standard HDD Managed Disks - S4 LRS,Disk Operations - Free,Usage,0,0,EUR
+Storage,Storage,Azure,Microsoft,Storage - Bandwidth,Storage - Bandwidth - Geo-Replication - EU West,Geo-Replication Data Transfer,Usage,0,0,EUR
+Virtual Network,Networking,Azure,Microsoft,IP Addresses,IP Addresses - Standard IPv4,Standard IPv4 Static Public IP,Usage,0.00454897,0.005,EUR
+Key Vault,Security,Azure,Microsoft,Key Vault,Key Vault - Premium,Operations,Usage,0.000128281,0.000141,EUR
+Bandwidth,Networking,Azure,Microsoft,Bandwidth Inter-Region,Bandwidth Inter-Region - Intra Continent - Europe,Intra Continent Data Transfer Out,Usage,5.9346E-06,6.52302E-06,EUR
+Bandwidth,Networking,Azure,Microsoft,Bandwidth Inter-Region,Bandwidth Inter-Region - Inter Continent - Intercontinental,Inter Continent Data Transfer Out - NAM or EU To Any,Usage,0,0,EUR
+Bandwidth,Networking,Azure,Microsoft,Rtn Preference: MGN,Rtn Preference: MGN,Standard Data Transfer In,Usage,0,0,EUR
+Bandwidth,Networking,Azure,Microsoft,Rtn Preference: MGN,Rtn Preference: MGN,Standard Data Transfer Out - Free,Usage,0,0,EUR
+Load Balancer,Networking,Azure,Microsoft,Load Balancer,Load Balancer,Standard Data Processed - Free,Usage,0,0,EUR
+Load Balancer,Networking,Azure,Microsoft,Load Balancer,Load Balancer,Standard Included LB Rules and Outbound Rules - Free,Usage,0,0,EUR

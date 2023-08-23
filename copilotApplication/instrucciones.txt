@@ -1,0 +1,27 @@
+Esperar hasta tener la matrícula rellena? o un email que certifique que estoy en segundo curso de DAW.
+
+Incluir el email de IMF
+
+Indicar que estudio en IMF
+
+Ir a la web de microsoft donde se gestionen licencias para estudiantes.
+
+https://education.github.com/pack/join
+
+
+Descargar la extensión de github copilot.
+
+Github copilot x es la versión más reciente, con motor gpt4
+
+----------
+
+Azure cognitive services:
+
+Requisitos: cuenta azure
+
+Preferible: experiencia con azure portal y con c# y uso de API REST entre otro.
+
+Recomendación si tal: empezar esta ruta de aprendizaje sobre aspectos básicos de azure: https://learn.microsoft.com/es-ES/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
+
+
+INVESTIGAR SOBRE SERVICIOS GRATUITOS AZURE. ¿Es preferible crear cuenta estudiante o usar las opciones gratuitas de cuenta normal?
